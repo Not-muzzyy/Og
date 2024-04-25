@@ -117,7 +117,7 @@ Main commands available:
  Click on the buttons below to get documentation about specific modules!
 """
 
-KAZUKO_IMG = "https://telegra.ph/file/6d0f29836fda1effbb4ba.jpg"
+KAZUKO_IMG = "https://telegra.ph/file/bd8d6c662848842e7bc00.jpg"
 
 IMPORTED = {}
 MIGRATEABLE = []
